@@ -38,7 +38,10 @@ body {
     min-width: 100%;
     min-height: 100%;
 }
-
+.container {
+    margin-top: 50px;
+  }
+  
 nav{
     width: 100%;
     position: absolute;
